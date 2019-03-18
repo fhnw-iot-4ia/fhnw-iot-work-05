@@ -3,7 +3,7 @@
 For slides and example code, see [lesson 5](../../../fhnw-iot/blob/master/05/README.md)
 
 > *Note: Do not work on this repository right away.*<br/>
-> *[Check existing forks to find the specific repository for your class.](../../network/members)*
+> *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/sLgnlWjp).*
 
 ### a) HRM BLE Peripheral, 15'
 * Build and run the previous nRF52840 BLE example.
